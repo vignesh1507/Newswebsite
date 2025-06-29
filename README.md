@@ -46,35 +46,30 @@ List the ready features here:
 1. Install XAMPP or WampServer
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
-
-3. Download project
-   1. from GitHub (https://github.com/MobinaJafarian/OnlineNewsSite)
-   2. or you can clone by cmd 
-      1. `cd C:\xampp\htdocs && git clone https://github.com/MobinaJafarian/OnlineNewsSite.git`
  
-4. extract files in C:\\xampp\htdocs\.
+3. extract files in C:\\xampp\htdocs\.
 
 > **Note** <br>
 >  The project name must be `OnlineNewsSite`
 
-5. open link localhost/phpmyadmin
+4. open link localhost/phpmyadmin
 
-6. click on new at side navbar.
+5. click on new at side navbar.
 
-7. Name a database as (news-project) and hit the create button.
+6. Name a database as (news-project) and hit the create button.
 
-8. after creating the database name click on import.
+7. after creating the database name click on import.
 
-9. browse the file in directory
+8. browse the file in directory
 [OnlineNewsSite/database/news-project.sql].
 
-10. after importing successfully.
+9. after importing successfully.
 
-11. open any browser and type http://localhost/OnlineNewsSite/
+10. open any browser and type http://localhost/OnlineNewsSite/
 
-12. first register and then login
+11. first register and then login
 
-13. Admin account details for login:
+12. Admin account details for login:
 - Email: `onlinenewssite@admin.com and`
 - Password: `123456789`
 
@@ -94,4 +89,4 @@ Status Project:  _complete_
 
 
 ## Contact
-Created by [@MobinaJafarian](https://github.com/MobinaJafarian) - feel free to contact me!
+agvskanda@gmail.com - feel free to contact me!
